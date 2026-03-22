@@ -1,0 +1,14 @@
+Evaluation Metrics for 1D CNN:
+
+--- 1D CNN Evaluation ---
+Accuracy: 0.8983419096626644
+
+Classification Report:
+               precision    recall  f1-score   support
+
+           0       0.89      0.90      0.90      4352
+           1       0.90      0.89      0.90      4393
+
+    accuracy                           0.90      8745
+   macro avg       0.90      0.90      0.90      8745
+weighted avg       0.90      0.90      0.90      8745

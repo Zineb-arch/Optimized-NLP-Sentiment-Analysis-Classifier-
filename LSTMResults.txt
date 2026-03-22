@@ -1,0 +1,14 @@
+Evaluation Metrics for LSTM Model:
+
+--- LSTM Model Evaluation ---
+Accuracy: 0.8485991995425958
+
+Classification Report:
+               precision    recall  f1-score   support
+
+           0       0.81      0.91      0.86      4352
+           1       0.90      0.79      0.84      4393
+
+    accuracy                           0.85      8745
+   macro avg       0.85      0.85      0.85      8745
+weighted avg       0.85      0.85      0.85      8745

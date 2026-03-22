@@ -1,0 +1,15 @@
+Evaluation Metrics for GRU with Word2Vec:
+
+Accuracy: ~0.880 (Replace with exact terminal output)
+
+Classification Report:
+              precision    recall  f1-score   support
+
+           0       0.89      0.87      0.88      4961
+           1       0.87      0.89      0.88      5039
+
+    accuracy                           0.88     10000
+   macro avg       0.88      0.88      0.88     10000
+weighted avg       0.88      0.88      0.88     10000
+
+(See generated GRU_with_Word2Vec_confusion_matrix.png for visual breakdown)
